@@ -16,7 +16,7 @@
 ### 4. お問い合わせ
 本アプリに関するお問い合わせや不具合のご報告は、以下のサポートフォームよりご連絡ください。
 
-[お問い合わせ・サポートフォームはこちら]([https://forms.gle/FDLYAHdKghNtYkuk6](https://docs.google.com/forms/d/e/1FAIpQLSd2fl7xPESnviR79UX6mBfccAm4IlgbViUoYv5T2kG3rM1ijg/viewform?usp=sharing&ouid=100457032565571478662))
+[お問い合わせ・サポートフォームはこちら]([https://forms.gle/FDLYAHdKghNtYkuk6](https://docs.google.com/forms/d/e/1FAIpQLSd2fl7xPESnviR79UX6mBfccAm4IlgbViUoYv5T2kG3rM1ijg/viewform?usp=sharing&ouid=100457032565571478662])
 
 ---
 制定日: 2026年9月16日
